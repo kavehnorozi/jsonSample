@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "فریم ویر",
+        "testCount": 437,
+        "station": "SoftwareTest",
+        "stationGoal": 1000
+    },
+    {
+        "id": 2,
+        "title": "وای فای",
+        "testCount": 429,
+        "station": "WifiTest",
+        "stationGoal": 1000
+    },
+    {
+        "id": 3,
+        "title": "اینترنت",
+        "testCount": 428,
+        "station": "InternetTest",
+        "stationGoal": 1000
+    },
+    {
+        "id": 4,
+        "title": "هاردویر",
+        "testCount": 427,
+        "station": "HWTest",
+        "stationGoal": 1000
+    },
+    {
+        "id": 5,
+        "title": "رایت",
+        "testCount": 303,
+        "station": "IsWrite",
+        "stationGoal": 1000
+    },
+    {
+        "id": 6,
+        "title": "فاینال QC",
+        "testCount": 303,
+        "station": "FinalQC",
+        "stationGoal": 1000
+    },
+    {
+        "id": 7,
+        "title": "مادرکارتن",
+        "testCount": 303,
+        "station": "DevicePacking",
+        "stationGoal": 1000
+    }
+]
